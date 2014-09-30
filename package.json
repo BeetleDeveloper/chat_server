@@ -1,9 +1,5 @@
 {
   "name": "jChat",
-  "subdomain": "dev.innovacenter.co/chat_server",
-  "scripts": {
-    "start": "server.js"
-  },
   "version": "1.0.0",
   "engines": {
     "node": "0.8.x"
